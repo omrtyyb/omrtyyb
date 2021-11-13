@@ -1,0 +1,5 @@
+- 👋 Hi, I’m tayeb
+- 👀 I’m interested in android
+- 🌱 I’m currently learning kotlin android
+- 💞️ I’m looking to collaborate on open source kotlin project
+- 📫 How to reach me omrtyyb@gmail.com
